@@ -14,19 +14,20 @@ class Program
 
         Console.WriteLine("Aquest article està en stock?");
         var disponibilitat = Console.ReadLine();
-        bool disponibilitat2 = ()
-        
-        if (disponibilitat == true)
+        bool disponibilitat2;
+
+
+        if (disponibilitat == "si")
         {
-            Console.WriteLine("Si");
+            Console.WriteLine(true);
         }
-        else 
+        else
         {
-            Console.WriteLine("No");
+            Console.WriteLine(false);
         }
 
 
-        Console.WriteLine($"El producte {producte} val {preu} i {disponibilitat} està disponible");
+        Console.WriteLine($"El producte {producte} val {preu} i {disponibilitat2} està disponible");
 
     }
 }
