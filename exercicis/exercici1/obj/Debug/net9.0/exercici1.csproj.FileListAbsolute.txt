@@ -13,3 +13,18 @@ C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\
 C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.pdb
 C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\exercici1.genruntimeconfig.cache
 C:\Users\Coral Planagumà\Desktop\CICLES FORMATIUS\PROJECTES\1-Programes-basics\exercicis\exercici1\obj\Debug\net9.0\ref\exercici1.dll
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfoInputs.cache
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.AssemblyInfo.cs
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.csproj.CoreCompileInputs.cache
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.sourcelink.json
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.dll
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\refint\exercici1.dll
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.pdb
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\bin\Debug\net9.0\exercici1.exe
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\bin\Debug\net9.0\exercici1.deps.json
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\bin\Debug\net9.0\exercici1.runtimeconfig.json
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\bin\Debug\net9.0\exercici1.dll
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\bin\Debug\net9.0\exercici1.pdb
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\exercici1.genruntimeconfig.cache
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila\exercicis\exercici1\obj\Debug\net9.0\ref\exercici1.dll

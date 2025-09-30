@@ -6,6 +6,27 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nom producte");
+        var producte = Console.ReadLine();
+
+        Console.WriteLine("Preu producte");
+        var preu = Console.ReadLine();
+
+        Console.WriteLine("Aquest article està en stock?");
+        var disponibilitat = Console.ReadLine();
+        bool disponibilitat2 = ()
+        
+        if (disponibilitat == true)
+        {
+            Console.WriteLine("Si");
+        }
+        else 
+        {
+            Console.WriteLine("No");
+        }
+
+
+        Console.WriteLine($"El producte {producte} val {preu} i {disponibilitat} està disponible");
+
     }
 }
