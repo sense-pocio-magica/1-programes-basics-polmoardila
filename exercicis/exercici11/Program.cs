@@ -5,6 +5,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nom d'usuari");
+        var usuari = Console.ReadLine();
+
+        Console.WriteLine("nom de domini");
+        var domini = Console.ReadLine();
+
+        Console.WriteLine($"El teu correu es {usuari}@{domini}");
     }
 }
