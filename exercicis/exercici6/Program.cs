@@ -7,6 +7,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Els quadrats tenen 4 costats. Digue'm el perimetre del teu quadrat.");
+        var perimetre = Console.ReadLine();
+        float perimetrefloat = float.Parse(perimetre);
+
+        float quadrat = 4;
+        float resultat = perimetrefloat * quadrat;
+
+        Console.WriteLine($"El perimetre del teu quadrat es {resultat}");
     }
 }
