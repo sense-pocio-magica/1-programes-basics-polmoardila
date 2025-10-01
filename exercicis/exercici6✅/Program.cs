@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Els quadrats tenen 4 costats. Digue'm el perimetre del teu quadrat.");
+        Console.WriteLine("Digue'm un numero per els costats del teu quadrat.");
         var perimetre = Console.ReadLine();
         float perimetrefloat = float.Parse(perimetre);
 
