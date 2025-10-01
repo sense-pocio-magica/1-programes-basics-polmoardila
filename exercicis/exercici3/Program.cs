@@ -1,33 +1,21 @@
-﻿namespace exercici3;
+﻿using System;
 
-/* Defineix quatre variables per al nom d’un producte, el seu preu 
-i si està en estoc o no. Imprimeix la informació de forma clara. */
-class Program
+namespace exercici3
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Nom producte");
-        var producte = Console.ReadLine();
-
-        Console.WriteLine("Preu producte");
-        var preu = Console.ReadLine();
-
-        Console.WriteLine("Aquest article està en stock?");
-        var disponibilitat = Console.ReadLine();
-        bool disponibilitat2;
-
-
-        if (disponibilitat == "si")
+        static void Main(string[] args)
         {
-            Console.WriteLine(true);
+            Console.WriteLine("Nom producte");
+            var producte = Console.ReadLine();
+
+            Console.WriteLine("Preu producte");
+            var preu = Console.ReadLine();
+
+            Console.WriteLine("Aquest article està en stock? (si/no)");
+            var disponibilitat = Console.ReadLine();
+
+            Console.WriteLine($"El producte {producte} val {preu} i {disponibilitat} està en stock. ");
         }
-        else
-        {
-            Console.WriteLine(false);
-        }
-
-
-        Console.WriteLine($"El producte {producte} val {preu} i {disponibilitat2} està disponible");
-
     }
 }
