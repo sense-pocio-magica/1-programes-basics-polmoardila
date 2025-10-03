@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici13\\exercici13.csproj": {}
+    "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici12\\exercici12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici13\\exercici13.csproj": {
+    "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici12\\exercici12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici13\\exercici13.csproj",
-        "projectName": "exercici13",
-        "projectPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici13\\exercici13.csproj",
+        "projectUniqueName": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici12\\exercici12.csproj",
+        "projectName": "exercici12",
+        "projectPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici12\\exercici12.csproj",
         "packagesPath": "C:\\Users\\polmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici13\\obj\\",
+        "outputPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-3\\exercicis\\exercici12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

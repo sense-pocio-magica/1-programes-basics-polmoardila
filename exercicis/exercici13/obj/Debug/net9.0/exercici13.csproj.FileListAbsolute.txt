@@ -1,0 +1,5 @@
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila-3\exercicis\exercici13\obj\Debug\net9.0\exercici13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila-3\exercicis\exercici13\obj\Debug\net9.0\exercici13.AssemblyInfoInputs.cache
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila-3\exercicis\exercici13\obj\Debug\net9.0\exercici13.AssemblyInfo.cs
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila-3\exercicis\exercici13\obj\Debug\net9.0\exercici13.csproj.CoreCompileInputs.cache
+C:\Users\polmo\Desktop\DAW\Programació\1-programes-basics-polmoardila-3\exercicis\exercici13\obj\Debug\net9.0\exercici13.sourcelink.json
