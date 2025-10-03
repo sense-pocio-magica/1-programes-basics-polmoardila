@@ -9,10 +9,10 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Digue'm el teu nom:");
-        var nom = Console.ReadLine();
+        string nom = Console.ReadLine();
 
         Console.WriteLine("Any de neixament:");
-        var any = Console.ReadLine();
+        string any = Console.ReadLine();
         int anyint = Convert.ToInt16(any);
 
         Console.WriteLine($"La teva contrasenya es {nom}{any} no la facis servir en cap lloc.");

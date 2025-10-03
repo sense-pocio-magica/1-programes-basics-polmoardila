@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("Digue'm el teu nom:");
         var nom = Console.ReadLine();
 
-        Console.WriteLine("Digue'm el teu any de neixament:");
+        Console.WriteLine("Digue'm el teu any de naixament:");
         var data = Console.ReadLine();
         int data2 = Convert.ToInt16(data);
 

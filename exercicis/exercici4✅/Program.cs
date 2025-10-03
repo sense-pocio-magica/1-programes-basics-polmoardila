@@ -10,16 +10,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Preu del producte en euros");
+        Console.WriteLine("Preu en euros");
         var preu_euros = Console.ReadLine();
         float euros = float.Parse(preu_euros);
 
         float pessetes = 166.386f;
         
-        double multiplicacio = euros * pessetes;
+        float multiplicacio = euros * pessetes;
         int multiplicacio2 = Convert.ToInt16(multiplicacio);
 
-        Console.WriteLine(multiplicacio2);
+        Console.WriteLine($"{multiplicacio2} pessetes");
         
     }
 }

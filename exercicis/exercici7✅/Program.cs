@@ -19,6 +19,6 @@ class Program
         float mitjana1 = numero1 + numero2 + numero3;
         float mitjana = mitjana1 / 3;
 
-        Console.WriteLine($"La mitjana de la nota és: {mitjana}");
+        Console.WriteLine($"La mitjana de la nota és: {mitjana:F2}");
     }
 }

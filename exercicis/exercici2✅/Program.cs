@@ -9,7 +9,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Carrer:");
-        var carrer = Console.ReadLine();
+        string carrer = Console.ReadLine();
 
         Console.WriteLine("Número:");
         var numero = Console.ReadLine();
@@ -18,7 +18,7 @@ class Program
         var codi_postal = Console.ReadLine();
 
         Console.WriteLine("Població");
-        var població = Console.ReadLine();
+        string població = Console.ReadLine();
 
         Console.WriteLine($"Vius al {carrer} amb el número {numero} codi postal {codi_postal} a {població}");
     }
