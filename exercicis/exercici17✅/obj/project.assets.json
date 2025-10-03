@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-4\\exercicis\\exercici16\\exercici16.csproj",
-      "projectName": "exercici16",
-      "projectPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-4\\exercicis\\exercici16\\exercici16.csproj",
+      "projectUniqueName": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-4\\exercicis\\exercici17\\exercici17.csproj",
+      "projectName": "exercici17",
+      "projectPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-4\\exercicis\\exercici17\\exercici17.csproj",
       "packagesPath": "C:\\Users\\polmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-4\\exercicis\\exercici16\\obj\\",
+      "outputPath": "C:\\Users\\polmo\\Desktop\\DAW\\Programació\\1-programes-basics-polmoardila-4\\exercicis\\exercici17\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
