@@ -6,6 +6,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Nom:");
+        string nom = Console.ReadLine();
+
+        Console.WriteLine("Cognom:");
+        string cognom = Console.ReadLine();
+
+        var nom1 = nom.Substring(1);
+        var nomuper = nomuper.ToUpper(nom1);
+        Console.WriteLine($"{nom1} {cognom}");
     }
 }
